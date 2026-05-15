@@ -6,8 +6,11 @@ This repository supports the manuscript:
 
 Contents:
 
+- `manuscript/Cyclic_Lateral_Pile_Group_IJGE_TF_revised_v2.docx`: final Taylor & Francis-formatted manuscript file used for submission preparation.
 - `supplementary/Supplementary files article 119 - IJGE.zip`: full reproducibility archive submitted as Online Resource 1.
-- `supplementary/Online Resource 2 - detailed tables and extended evidence.docx`: extended tables and detailed evidence moved out of the main manuscript to comply with the IJGE research-article word limit.
+- `supplementary/Online_Resource_2_TF_formatted.docx`: final Taylor & Francis-formatted Online Resource 2, including extended tables, explanatory validation notes, and supplementary figures not embedded in the main manuscript.
+- `supplementary/Online Resource 2 - detailed tables and extended evidence.docx`: compatibility copy of Online Resource 2 using the earlier descriptive filename.
+- `figures/`: current PNG figure set used by the main manuscript and Online Resource 2.
 - `blind_validation/`: non-GEOLAB external blind curve-scale protocol, frozen predictions, revealed outputs, metrics and hashes.
 - `eries_aligned_2x2_screening_capsule/`: compact reproducibility capsule for the fixed 2x2 workflow.
 - `ijge_5000_word_limit_trim_audit.md`: audit note for the journal word-limit adaptation.
