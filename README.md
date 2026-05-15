@@ -1,4 +1,4 @@
-# Article 119 supplementary data and reproducibility package
+﻿# Article 119 supplementary data and reproducibility package
 
 This repository supports the manuscript:
 
@@ -16,3 +16,4 @@ Contents:
 - `ijge_5000_word_limit_trim_audit.md`: audit note for the journal word-limit adaptation.
 
 The repository is intended to support reproducibility and editorial review. It does not convert the proposed screening framework into a final design procedure or direct field-calibrated displacement model.
+
