@@ -1,0 +1,23 @@
+field,value
+geometry,ERIES-aligned 2x2 pile group
+topology,2x2
+rows,2
+columns,2
+number_of_piles,4
+D_m,0.6
+L_m,8.0
+spacing_D,2.5
+spacing_m,1.5
+load_case,H = 100 kN; M = 0 kN m; N = 100000 cycles
+calibrated_preliminary_prediction_mm,4.83
+prediction_band_mm,"[3.219, 6.439]"
+severe_degradation_stress_test_envelope_mm,25.81
+calculix_nonlinear_py_fem_check_mm,3.22
+calculix_3d_static_continuum_check_mm,0.286
+calculix_3d_degraded_continuum_check_mm,0.403
+utilization_calibrated,0.86
+utilization_stress_test,0.86
+cost_index,12.1
+feasible_design_count_baseline,175
+feasible_design_count_severe_multiplier_4,174
+selected_topology_under_reserve,"{""utilization_limit_1.00"": ""2x2, D=0.60 m, L=8 m, s=2.5D, cost=12.1"", ""utilization_limit_0.95"": ""2x2, D=0.60 m, L=8 m, s=2.5D, cost=12.1"", ""utilization_limit_0.90"": ""2x2, D=0.60 m, L=8 m, s=2.5D, cost=12.1"", ""utilization_limit_0.85"": ""2x2, D=0.60 m, L=8 m, s=3.0D, cost=12.2""}"

@@ -1,0 +1,7 @@
+quantity,value_mm,basis,interpretation
+lower_open_source_bound,2.550000,independent Winkler magnitude check,conservative low end of the open-source evidence band
+open_solver_cluster,3.213-3.219,OpenSeesPy and CalculiX p-y implementations,independent open-source p-y implementation agreement
+central_preliminary_estimate,4.829124,1.5 times CalculiX p-y anchor,reportable central pre-design displacement
+3d_compliance_convergence,4.867612,CalculiX 3D soil-modulus compliance sweep,continuum convergence support for the central scale
+upper_open_source_bound,6.438832,gamma_FEM=2.0 deterministic band bound,upper pre-design screening bound
+stress_test_excluded_from_band,25.813803,severe-degradation stress-test envelope,retained for robustness only; not a central prediction

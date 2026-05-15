@@ -1,0 +1,15 @@
+case,mesh_hxy_m,mesh_hz_m,domain_half_width_m,interface_thickness_m,interface_modulus_factor,interface_E_kPa,n_nodes,n_elements,n_interface_elements,n_top_nodes,mean_top_displacement_mm,max_top_displacement_mm,ratio_to_4p83,inside_3p219_6p439_band,claim_allowed
+3D-0_bonded_reference,0.600,1.000,3.600,0.000,1.00000,35070.590349,2601,2048,0,36,0.403105,0.412895,0.083459,false,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-4_interface_high,0.600,1.000,3.600,0.300,0.10000,3507.059035,3969,3200,672,36,0.844104,0.855997,0.174763,false,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-5_interface_medium,0.600,1.000,3.600,0.300,0.03000,1052.117710,3969,3200,672,36,1.500647,1.511449,0.310693,false,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-6_interface_low,0.600,1.000,3.600,0.300,0.01000,350.705903,3969,3200,672,36,2.598773,2.608815,0.538048,false,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-6b_interface_very_low,0.600,1.000,3.600,0.300,0.00300,105.211771,3969,3200,672,36,4.143226,4.153213,0.857811,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-6c_interface_extreme_low,0.600,1.000,3.600,0.300,0.00100,35.070590,3969,3200,672,36,5.201964,5.212133,1.077011,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-6d_interface_thick_low,0.600,1.000,3.600,0.600,0.00300,105.211771,3969,3200,1024,36,5.185112,5.196597,1.073522,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-6e_interface_thick_extreme,0.600,1.000,3.600,0.600,0.00100,35.070590,3969,3200,1024,36,5.716697,5.727478,1.183581,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-7_recommended_coarse,0.750,1.000,3.600,0.300,0.00300,105.211771,2916,2312,384,36,4.096500,4.107278,0.848137,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-7_recommended_medium,0.600,1.000,3.600,0.300,0.00300,105.211771,3969,3200,672,36,4.143226,4.153213,0.857811,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-7_recommended_xy_fine,0.450,1.000,3.600,0.300,0.00300,105.211771,3969,3200,384,36,4.096922,4.107020,0.848224,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-7_recommended_z_fine,0.600,0.500,3.600,0.300,0.00300,105.211771,7497,6400,1344,36,5.734383,5.744915,1.187243,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-7_recommended_fine,0.450,0.500,3.600,0.300,0.00300,105.211771,7497,6400,768,36,5.642838,5.653519,1.168289,true,physically bounded reduced-modulus interface-layer benchmark; not field validation
+3D-1_domain_large,0.600,1.000,5.400,0.300,0.00300,105.211771,6561,5408,672,36,4.154307,4.164303,0.860105,true,physically bounded reduced-modulus interface-layer benchmark; not field validation

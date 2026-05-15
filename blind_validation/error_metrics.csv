@@ -1,0 +1,4 @@
+case_id,n_points,max_load_kN,max_measured_displacement_mm,max_predicted_displacement_mm,mae_mm,rmse_mm,nrmse_by_measured_umax,mae_by_measured_umax,secant_k50_measured_kN_per_mm,secant_k50_predicted_kN_per_mm,maximum_defensible_claim
+BV-Rollins2005-9pile-sand,20,494.000,37.410,40.007,4.029,4.302,0.115,0.108,22.536,14.543,external blind curve-scale screening check only; not selected-profile calibration
+BV-Christensen2006-9pile-sand,8,1102.000,48.800,59.753,10.141,11.172,0.229,0.208,39.357,21.437,external blind curve-scale screening check only; not selected-profile calibration
+BV-Walsh2005-3x5-sand,9,1853.000,68.410,77.484,10.483,11.360,0.166,0.153,45.889,27.750,external blind curve-scale screening check only; not selected-profile calibration

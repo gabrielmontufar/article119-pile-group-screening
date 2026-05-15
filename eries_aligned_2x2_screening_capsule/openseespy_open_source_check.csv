@@ -1,0 +1,2 @@
+solver,model,source_backbone,load_total_kN,top_displacement_mean_mm,top_displacement_max_mm,ratio_to_4p83,analysis_ok,allowed_claim
+OpenSeesPy,independent beam-zeroLength p-y implementation,Calcix p-y spring backbones parsed from py_fem_model.inp,100.0,3.2130298395242565,3.2130298395242565,0.6652235692596804,True,open-source implementation/model-form check of the p-y spring idealization; not field validation

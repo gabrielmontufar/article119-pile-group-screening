@@ -1,0 +1,10 @@
+file,role
+canonical_2x2_design_space.csv,fixed-topology D-L-s/D design-space enumeration
+canonical_results.csv,selected candidate and canonical result quantities
+calcix_checks_trace.csv,CalculiX p-y and bonded 3D continuum solver trace
+calcix_3d_interface_layer_benchmark.csv,localized 3D interface-layer E4 benchmark
+openseespy_open_source_check.csv,independent OpenSeesPy p-y implementation check
+multi_model_open_source_displacement_band.csv,formal multi-model displacement evidence band
+v4s_passport_canonical_claims.csv,claim-level V4-S decision-validation passport
+claim_support_index_csi.csv,claim credibility audit score
+p_multiplier_comparison_trace.csv,practice-equivalent p-multiplier surrogate trace

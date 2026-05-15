@@ -1,0 +1,14 @@
+{
+  "created_utc": "2026-05-15T18:29:40.385815+00:00",
+  "protocol": "external non-GEOLAB procedural blind validation",
+  "blind_inputs_sha256": "d394fe1925609f7110dcb759abd3a00a0716d5c25374eb6962a621f3d829a729",
+  "blind_predictions_frozen_sha256": "4a5570c281daf73ed449160a4994eaa38f17c66bc66e7634e33a30a8dc8f535b",
+  "blind_outputs_revealed_sha256": "a548a1ca4dc83e633533f9ee654556ebd2a93fc7dc8e693bddba8c6b3fbab5c8",
+  "error_metrics_sha256": "178578fe87c2fc8763d4669ce5159504ba2e003d65b325eb246ac0ea267d0bce",
+  "source_manifest_sha256": "87d937345af8c482c5838201a08a938c796b0e9b94d446aa726fcfb5b94a0181",
+  "cases": [
+    "BV-Rollins2005-9pile-sand",
+    "BV-Christensen2006-9pile-sand",
+    "BV-Walsh2005-3x5-sand"
+  ]
+}

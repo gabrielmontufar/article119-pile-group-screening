@@ -1,0 +1,7 @@
+claim_id,claim,evidence_level_E,qa_gate_Q,reproducibility_R,mechanical_independence_I,falsifier_severity_F,CSI_score,CSI_class,interpretation,CSI_formula
+C1,"selected D=0.60 m, L=8.0 m, s/D=2.5 candidate",2.0,1.0,1.0,0.4,0.2,61.0,C,lowest-cost feasible candidate within the declared fixed-2x2 grid,CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
+C2,central preliminary displacement = 4.83 mm,3.0,1.0,1.0,0.6,0.5,69.5,B,FEM-anchored preliminary screening estimate,CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
+C3,open-source multi-model displacement band = 2.55-6.44 mm,3.5,1.0,1.0,0.8,0.4,78.3,B,evidence-bounded preliminary displacement interval,CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
+C4,25.81 mm is a severe-degradation stress-test envelope,2.0,1.0,1.0,0.2,0.3,56.0,C,conservative ranking/reserve envelope only,CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
+C5,ERIES evidence supports small-amplitude dynamic impedance only,1.5,1.0,0.7,0.7,0.8,51.2,D,geometry-aligned small-amplitude dynamic consistency,CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
+C6,3D interface-layer FEM supports selected displacement scale,4.0,1.0,1.0,0.9,0.4,84.0,A,"band-stable open-source 3D model-form benchmark, not contact calibration",CSI = 100*(0.30*E/4 + 0.20*Q + 0.20*R + 0.20*I - 0.10*F)
