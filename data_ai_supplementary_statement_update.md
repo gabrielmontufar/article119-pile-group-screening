@@ -1,7 +1,7 @@
 # Data availability, supplementary material and AI statement update
 
-- Data availability now points to the reproducibility package, ERIES capsule and blind-validation folders.
-- Supplementary material statement identifies Online Resource 1 and the submitted ZIP path.
+- Data availability now points to the public GitHub repository: https://github.com/gabrielmontufar/article119-pile-group-screening.
+- Key repository directories cited in the manuscript: https://github.com/gabrielmontufar/article119-pile-group-screening/tree/main/eries_aligned_2x2_screening_capsule, https://github.com/gabrielmontufar/article119-pile-group-screening/tree/main/blind_validation and https://github.com/gabrielmontufar/article119-pile-group-screening/tree/main/supplementary.
+- Supplementary material statement identifies Online Resource 1, Online Resource 2 and the GitHub supplementary directory.
 - AI statement was aligned with article 127 wording.
-- No existing GitHub URL was found in the local article-119 package; the manuscript now flags that the repository URL must be inserted before submission instead of inventing a link.
-- Embedded manuscript figures: 14 (Figure 23, Figure 1, Figure 2, Figure 3, Figure 4, Figure 5, Figure 6, Figure 7, Figure 8, Figure 16, Figure 17, Figure 18, Figure 19, Figure 20).
+- No local machine folder paths are used in the manuscript statements.
